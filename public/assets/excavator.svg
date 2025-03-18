@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base/Body -->
+  <rect x="15" y="70" width="50" height="15" fill="#f8b125" rx="2" ry="2"/>
+  
+  <!-- Tracks -->
+  <rect x="10" y="85" width="60" height="10" fill="#333" rx="2" ry="2"/>
+  <rect x="15" y="85" width="5" height="10" fill="#222"/>
+  <rect x="25" y="85" width="5" height="10" fill="#222"/>
+  <rect x="35" y="85" width="5" height="10" fill="#222"/>
+  <rect x="45" y="85" width="5" height="10" fill="#222"/>
+  <rect x="55" y="85" width="5" height="10" fill="#222"/>
+  
+  <!-- Cabin -->
+  <rect x="20" y="55" width="25" height="15" fill="#333" rx="3" ry="3"/>
+  <rect x="25" y="58" width="15" height="8" fill="#88f" rx="1" ry="1"/> <!-- Window -->
+  
+  <!-- Boom -->
+  <rect x="45" y="65" width="30" height="5" fill="#f8b125" rx="1" ry="1" transform="rotate(-30, 45, 65)"/>
+  
+  <!-- Arm -->
+  <rect x="70" y="45" width="20" height="4" fill="#f8b125" rx="1" ry="1" transform="rotate(30, 70, 45)"/>
+  
+  <!-- Bucket -->
+  <path d="M85 35 L95 40 L95 50 L85 45 Z" fill="#999"/>
+  
+  <!-- Hydraulic cylinders -->
+  <rect x="45" y="65" width="12" height="3" fill="#888" rx="1" ry="1"/>
+  <rect x="70" y="45" width="10" height="2" fill="#888" rx="1" ry="1"/>
+  
+  <!-- Engine exhaust -->
+  <rect x="40" y="50" width="5" height="5" fill="#555"/>
+</svg> 

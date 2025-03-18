@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main body -->
+  <rect x="40" y="20" width="20" height="50" fill="#333" rx="2" ry="2"/>
+  
+  <!-- Handle grips -->
+  <rect x="25" y="30" width="15" height="8" fill="#222" rx="2" ry="2"/>
+  <rect x="60" y="30" width="15" height="8" fill="#222" rx="2" ry="2"/>
+  
+  <!-- Air hose connection -->
+  <rect x="45" y="15" width="10" height="5" fill="#444"/>
+  <path d="M50 15 Q 60 0, 80 10" stroke="#559" stroke-width="4" fill="none"/>
+  
+  <!-- Drill bit -->
+  <rect x="45" y="70" width="10" height="20" fill="#999"/>
+  <polygon points="45,90 55,90 50,100" fill="#777"/>
+  
+  <!-- Motor housing details -->
+  <rect x="42" y="25" width="16" height="10" fill="#444" rx="1" ry="1"/>
+  <rect x="42" y="40" width="16" height="10" fill="#444" rx="1" ry="1"/>
+  
+  <!-- Trigger -->
+  <rect x="30" y="38" width="8" height="3" fill="#d00"/>
+</svg> 

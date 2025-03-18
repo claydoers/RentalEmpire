@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base of generator -->
+  <rect x="15" y="60" width="70" height="30" fill="#444" rx="3" ry="3"/>
+  
+  <!-- Top part -->
+  <rect x="25" y="50" width="50" height="10" fill="#666" rx="2" ry="2"/>
+  
+  <!-- Control panel -->
+  <rect x="30" y="65" width="40" height="15" fill="#333" rx="2" ry="2"/>
+  
+  <!-- Gauges and outlets -->
+  <circle cx="40" cy="72" r="4" fill="#d00"/>
+  <circle cx="55" cy="72" r="4" fill="#0a0"/>
+  <rect x="65" y="69" width="8" height="6" fill="#777"/>
+  
+  <!-- Handle -->
+  <rect x="35" y="40" width="30" height="10" fill="#555" rx="5" ry="5"/>
+  
+  <!-- Exhaust -->
+  <rect x="70" y="55" width="5" height="10" fill="#888"/>
+</svg> 
