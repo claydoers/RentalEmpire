@@ -8,7 +8,7 @@
 
 > Build your construction equipment rental empire in this addictive idle game! Purchase equipment, earn passive income, and grow your business empire one excavator at a time.
 
-![Game Screenshot](public/images/rental-empire-screenshot.png)
+<img src="public/images/rental-empire-screenshot.png" alt="Game Screenshot" width="400" />
 
 ## ✨ Features
 
